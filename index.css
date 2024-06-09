@@ -1,0 +1,24 @@
+body {padding-left: 5%;
+	
+h2 { font-weight: bold;
+            background-color: #FFFFFF;
+			color: #003366;
+			font-size: 1.6em;
+}
+
+li { font-size: 1.1em;}
+
+.education {
+	width: auto;
+}
+
+.skills {
+    float: left;
+	width: auto;
+	padding-right: 10%;
+}
+
+.interests {
+    float: left;
+	width: auto;
+}
