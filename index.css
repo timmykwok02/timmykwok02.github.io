@@ -13,7 +13,8 @@ li { font-size: 1.1em;}
 			padding-right: 1em;}
 
 .imgIcon { width: 15px;
-		   height: 15px;}
+		   height: 15px;
+		   }
 
 
 .floatLeft {
@@ -35,5 +36,6 @@ li { font-size: 1.1em;}
 		#mobile { display: inline; }
 		#desktop { display: none; }
 		#contact p {display: block; }
+		.imgIcon {float: left; }
 		
 }
