@@ -1,1 +1,25 @@
+body {padding-left: 5%;}
+	
+h2 { font-weight: bold;
+            background-color: #FFFFFF;
+			color: #003366;
+			font-size: 1.6em;
+}
+
+li { font-size: 1.1em;}
+
+#contact p { list-style-type: none;
+			display: inline;
+			padding-right: 1em;}
+
+.imgIcon { width: 15px;
+		   height: 15px;
+		   }
+
+
+.floatLeft {
+    float: left;
+	width: auto;
+	padding-right: 10%;
+}
 
